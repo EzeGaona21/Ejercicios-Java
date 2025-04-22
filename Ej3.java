@@ -30,7 +30,7 @@ public class Ej3 {
             }
         }
 
-        // Mostrar el precio total
+       
         System.out.println("El precio total de todos los productos es: $" + total);
         
         sc.close();
